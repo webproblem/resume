@@ -12,3 +12,9 @@
 * Email: [yqx_emails@163.com](mailto:yqx_emails@163.com)
 
 # 技能清单 #
+
+# 工作经历 #
+
+# 个人项目 #
+
+# 自我评价 #
