@@ -13,18 +13,11 @@
 -------------------------------------------------------------------------------------------
 ## 技能清单 ##
 
-* 熟悉js，html，css(css3)
-* gulp构建工具
-* xxxxxxxxxx
-* aaaaaaaaaaaaaaa
-* 111111111111111
-* 222222222222222
-* 3333333333333333333333333333333333333
-* sfdslgjdflkgjdflkgjldkfjgldkfgjlkdfjglkdfjg
-sdsdfdsfgdft
-
-11111111111111ertertert
-
+* 熟悉js，html，css
+* 了解javascript新标准es6语法
+* 了解前端vue框架
+* 熟悉gulp自动化构建工具
+* 熟悉使用markdown
 **..........**
 
 --------------------------------------------------------------------------------------------
@@ -59,8 +52,12 @@ sdsdfdsfgdft
 
 ## 个人项目 ##
 
-* [dialogView](https://github.com/webproblem/hello-world/tree/master/dialogDemo): 移动端dialog组件
+* [dialogView](https://github.com/webproblem/hello-world/dialogDemo): 一个简易版适用于移动端的dialog ui组件
+* [doView](https://github.com/webproblem/doView): 一个基于jQuery开发的轻量级UI组件库
 
 ## 自我评价 ##
 
-.........................
+1. 热衷于前端领域，关注前端的发展动向，对前端开发具有极大的热情和追求精神 
+2. 利用业余时间学习前端开发相关知识并加以实践，喜欢造轮子，通过动手实践，加强对技术的积累
+3. 能够承受一定的工作压力,对工作有责任心
+4. 项目开发的同时注重代码的质量和严谨性
