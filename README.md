@@ -52,7 +52,7 @@
 
 ## 个人项目 ##
 
-* [dialogView](https://github.com/webproblem/hello-world/dialogDemo): 一个简易版适用于移动端的dialog ui组件
+* [dialogView](https://github.com/webproblem/hello-world/tree/master/dialogDemo): 一个简易版适用于移动端的dialog ui组件
 * [doView](https://github.com/webproblem/doView): 一个基于jQuery开发的轻量级UI组件库
 
 ## 自我评价 ##
