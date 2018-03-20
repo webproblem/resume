@@ -76,7 +76,7 @@
 
 ## 技能关键字 ##
 
-Javascript, css(css3), html, bootstrap, jQuery, es6, vue, github
+Javascript, css(css3), html, jQuery, es6, vue, github
 
 ## 致谢 ##
 
